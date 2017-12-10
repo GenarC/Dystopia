@@ -11,29 +11,89 @@ MonoBehaviour:
   m_Script: {fileID: 995438498, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-12-10T18:36:25.5194407+03:00
-  lastVerifiedAtString: 2017-12-10T18:36:25.5194407+03:00
+  lastUpdatedAtString: 2017-12-10T19:11:32.9445110+03:00
+  lastVerifiedAtString: 2017-12-10T19:11:32.9445110+03:00
   status:
-    LocalBranch: master
-    RemoteBranch: origin/master
-    Ahead: 2
+    LocalBranch: ElifDevelop
+    RemoteBranch: origin/ElifDevelop
+    Ahead: 0
     Behind: 0
     Entries:
+    - Path: Library\assetDatabase3
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\assetDatabase3"
+      ProjectPath: Library\assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
     - Path: Library\gfu\cache\branches.yaml
-      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\branches.yaml
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\gfu\\cache\\branches.yaml"
       ProjectPath: Library\gfu\cache\branches.yaml
       OriginalPath: 
       Status: 3
       Staged: 0
+    - Path: Library\gfu\cache\gitlocks.yaml
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\gfu\\cache\\gitlocks.yaml"
+      ProjectPath: Library\gfu\cache\gitlocks.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
     - Path: Library\gfu\cache\gitlog.yaml
-      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\gitlog.yaml
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\gfu\\cache\\gitlog.yaml"
       ProjectPath: Library\gfu\cache\gitlog.yaml
       OriginalPath: 
       Status: 3
       Staged: 0
     - Path: Library\gfu\cache\gitstatus.yaml
-      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\gitstatus.yaml
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\gfu\\cache\\gitstatus.yaml"
       ProjectPath: Library\gfu\cache\gitstatus.yaml
       OriginalPath: 
       Status: 3
+      Staged: 0
+    - Path: Library\gfu\cache\repoinfo.yaml
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\gfu\\cache\\repoinfo.yaml"
+      ProjectPath: Library\gfu\cache\repoinfo.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets\Elif.cs
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Assets\\Elif.cs"
+      ProjectPath: Assets\Elif.cs
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Assets\Elif.cs.meta
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Assets\\Elif.cs.meta"
+      ProjectPath: Assets\Elif.cs.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\ScriptAssemblies\\Assembly-CSharp.dll"
+      ProjectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\ScriptAssemblies\\Assembly-CSharp.dll.mdb"
+      ProjectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\75\75981a1d15534514c89e9af8e0fc9337
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\metadata\\75\\75981a1d15534514c89e9af8e0fc9337"
+      ProjectPath: Library\metadata\75\75981a1d15534514c89e9af8e0fc9337
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\75\75981a1d15534514c89e9af8e0fc9337.info
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Library\\metadata\\75\\75981a1d15534514c89e9af8e0fc9337.info"
+      ProjectPath: Library\metadata\75\75981a1d15534514c89e9af8e0fc9337.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Temp\UnityTempFile-c0be14e19a6081245bc11ceda28f972d
+      FullPath: "C:\\Users\\Elif \xC7il\\Documents\\GitHub\\Dystopia\\Temp\\UnityTempFile-c0be14e19a6081245bc11ceda28f972d"
+      ProjectPath: Temp\UnityTempFile-c0be14e19a6081245bc11ceda28f972d
+      OriginalPath: 
+      Status: 1
       Staged: 0
