@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 1109517887, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-12-10T18:29:37.1767101+03:00
-  lastVerifiedAtString: 2017-12-10T18:29:37.1767101+03:00
+  lastUpdatedAtString: 2017-12-10T18:40:20.6470099+03:00
+  lastVerifiedAtString: 2017-12-10T18:40:20.6470099+03:00
   gitRemote:
     name: origin
     url: https://github.com/GenarC/Dystopia.git
@@ -22,6 +22,6 @@ MonoBehaviour:
     function: 0
     token: 
   gitBranch:
-    name: master
-    tracking: origin/master
+    name: CemDevelopment
+    tracking: origin/CemDevelopment
     isActive: 0
