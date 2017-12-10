@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-12-10T19:07:46.9834966+03:00
-  lastVerifiedAtString: 2017-12-10T19:07:46.9834966+03:00
+  lastUpdatedAtString: 2017-12-10T19:10:23.3618224+03:00
+  lastVerifiedAtString: 2017-12-10T19:10:23.3618224+03:00
   gitConfigBranch:
     Name: CemDevelopment
   gitConfigRemote:
