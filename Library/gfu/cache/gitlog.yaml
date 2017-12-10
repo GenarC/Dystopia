@@ -11,9 +11,39 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-12-10T18:31:36.2776924+03:00
-  lastVerifiedAtString: 2017-12-10T18:31:36.2776924+03:00
+  lastUpdatedAtString: 2017-12-10T18:36:25.3648667+03:00
+  lastVerifiedAtString: 2017-12-10T18:36:25.3648667+03:00
   log:
+  - CommitID: dfeef4848ec4c1e4a8a27a366fa79032560b03d9
+    MergeA: 
+    MergeB: 
+    AuthorName: GenarC
+    AuthorEmail: cemgenar43@gmail.com
+    CommitEmail: cemgenar43@gmail.com
+    CommitName: GenarC
+    Summary: deneme
+    Description: deneme
+    TimeString: 2017-12-10T18:31:52.0000000+03:00
+    CommitTimeString: 2017-12-10T18:31:52.0000000+03:00
+    Changes:
+    - Path: Library\gfu\cache\branches.yaml
+      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\branches.yaml
+      ProjectPath: Library\gfu\cache\branches.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\gfu\cache\gitlog.yaml
+      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\gitlog.yaml
+      ProjectPath: Library\gfu\cache\gitlog.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\gfu\cache\gitstatus.yaml
+      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\gitstatus.yaml
+      ProjectPath: Library\gfu\cache\gitstatus.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
   - CommitID: d33d8a2ee034a73987f4eee41c46dab17181e8d1
     MergeA: 
     MergeB: 
