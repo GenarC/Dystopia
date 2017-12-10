@@ -11,37 +11,19 @@ MonoBehaviour:
   m_Script: {fileID: 995438498, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-12-10T18:40:31.9846025+03:00
-  lastVerifiedAtString: 2017-12-10T18:40:31.9846025+03:00
+  lastUpdatedAtString: 2017-12-10T19:08:37.4405749+03:00
+  lastVerifiedAtString: 2017-12-10T19:08:37.4405749+03:00
   status:
     LocalBranch: CemDevelopment
     RemoteBranch: origin/CemDevelopment
     Ahead: 0
     Behind: 0
     Entries:
-    - Path: Assets\asdfasd.txt
-      FullPath: C:\C#Repositories\Dystopia\Assets\asdfasd.txt
-      ProjectPath: Assets\asdfasd.txt
+    - Path: Library\CrashedAssetImports.txt
+      FullPath: C:\C#Repositories\Dystopia\Library\CrashedAssetImports.txt
+      ProjectPath: Library\CrashedAssetImports.txt
       OriginalPath: 
       Status: 5
-      Staged: 0
-    - Path: Assets\asdfasd.txt.meta
-      FullPath: C:\C#Repositories\Dystopia\Assets\asdfasd.txt.meta
-      ProjectPath: Assets\asdfasd.txt.meta
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\EditorInstance.json
-      FullPath: C:\C#Repositories\Dystopia\Library\EditorInstance.json
-      ProjectPath: Library\EditorInstance.json
-      OriginalPath: 
-      Status: 3
-      Staged: 0
-    - Path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-      FullPath: C:\C#Repositories\Dystopia\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-      ProjectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-      OriginalPath: 
-      Status: 3
       Staged: 0
     - Path: Library\assetDatabase3
       FullPath: C:\C#Repositories\Dystopia\Library\assetDatabase3
@@ -52,12 +34,6 @@ MonoBehaviour:
     - Path: Library\gfu\cache\branches.yaml
       FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\branches.yaml
       ProjectPath: Library\gfu\cache\branches.yaml
-      OriginalPath: 
-      Status: 3
-      Staged: 0
-    - Path: Library\gfu\cache\gitlocks.yaml
-      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\gitlocks.yaml
-      ProjectPath: Library\gfu\cache\gitlocks.yaml
       OriginalPath: 
       Status: 3
       Staged: 0
@@ -73,99 +49,51 @@ MonoBehaviour:
       OriginalPath: 
       Status: 3
       Staged: 0
-    - Path: Library\gfu\cache\repoinfo.yaml
-      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\repoinfo.yaml
-      ProjectPath: Library\gfu\cache\repoinfo.yaml
+    - Path: Library\metadata\00\00000000000000005100000000000000
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\00\00000000000000005100000000000000
+      ProjectPath: Library\metadata\00\00000000000000005100000000000000
       OriginalPath: 
       Status: 3
       Staged: 0
-    - Path: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2.info
-      ProjectPath: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2.info
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info
-      ProjectPath: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info
-      ProjectPath: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef.info
-      ProjectPath: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef.info
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e.info
-      ProjectPath: Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e.info
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\metadata\85\852e56802eb941638acbb491814497b0.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\85\852e56802eb941638acbb491814497b0.info
-      ProjectPath: Library\metadata\85\852e56802eb941638acbb491814497b0.info
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info
-      ProjectPath: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info
-      ProjectPath: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info
-      ProjectPath: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info
-      OriginalPath: 
-      Status: 5
-      Staged: 0
-    - Path: Library\metadata\e8\e832d2fa0cfe54442a03b6fc539e9989
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\e8\e832d2fa0cfe54442a03b6fc539e9989
-      ProjectPath: Library\metadata\e8\e832d2fa0cfe54442a03b6fc539e9989
+    - Path: Library\metadata\00\00000000000000005100000000000000.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\00\00000000000000005100000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000005100000000000000.info
       OriginalPath: 
       Status: 3
       Staged: 0
-    - Path: Library\metadata\e8\e832d2fa0cfe54442a03b6fc539e9989.info
-      FullPath: C:\C#Repositories\Dystopia\Library\metadata\e8\e832d2fa0cfe54442a03b6fc539e9989.info
-      ProjectPath: Library\metadata\e8\e832d2fa0cfe54442a03b6fc539e9989.info
+    - Path: Library\metadata\00\00000000000000008000000000000000
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\00\00000000000000008000000000000000
+      ProjectPath: Library\metadata\00\00000000000000008000000000000000
       OriginalPath: 
       Status: 3
       Staged: 0
-    - Path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-      FullPath: C:\C#Repositories\Dystopia\Library\shadercompiler-UnityShaderCompiler.exe0.log
-      ProjectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    - Path: Library\metadata\00\00000000000000008000000000000000.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\00\00000000000000008000000000000000.info
+      ProjectPath: Library\metadata\00\00000000000000008000000000000000.info
       OriginalPath: 
       Status: 3
       Staged: 0
-    - Path: Assets\CemTxt.txt
-      FullPath: C:\C#Repositories\Dystopia\Assets\CemTxt.txt
-      ProjectPath: Assets\CemTxt.txt
+    - Path: Library\metadata\00\0000000000000000c000000000000000
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\00\0000000000000000c000000000000000
+      ProjectPath: Library\metadata\00\0000000000000000c000000000000000
       OriginalPath: 
-      Status: 1
+      Status: 3
       Staged: 0
-    - Path: Assets\CemTxt.txt.meta
-      FullPath: C:\C#Repositories\Dystopia\Assets\CemTxt.txt.meta
-      ProjectPath: Assets\CemTxt.txt.meta
+    - Path: Library\metadata\00\0000000000000000c000000000000000.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\00\0000000000000000c000000000000000.info
+      ProjectPath: Library\metadata\00\0000000000000000c000000000000000.info
       OriginalPath: 
-      Status: 1
+      Status: 3
       Staged: 0
-    - Path: Library\CrashedAssetImports.txt
-      FullPath: C:\C#Repositories\Dystopia\Library\CrashedAssetImports.txt
-      ProjectPath: Library\CrashedAssetImports.txt
+    - Path: ProjectSettings\EditorSettings.asset
+      FullPath: C:\C#Repositories\Dystopia\ProjectSettings\EditorSettings.asset
+      ProjectPath: ProjectSettings\EditorSettings.asset
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Dystopia.sln
+      FullPath: C:\C#Repositories\Dystopia\Dystopia.sln
+      ProjectPath: Dystopia.sln
       OriginalPath: 
       Status: 1
       Staged: 0

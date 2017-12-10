@@ -11,17 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-12-10T18:40:20.6610188+03:00
-  lastVerifiedAtString: 2017-12-10T18:40:20.6610188+03:00
+  lastUpdatedAtString: 2017-12-10T19:07:46.9834966+03:00
+  lastVerifiedAtString: 2017-12-10T19:07:46.9834966+03:00
   gitConfigBranch:
     Name: CemDevelopment
   gitConfigRemote:
     Name: origin
     Url: https://github.com/GenarC/Dystopia.git
   localBranches:
-  - name: CemDevelopment
-    tracking: origin/CemDevelopment
-    isActive: 1
   - name: Development
     tracking: origin/Development
     isActive: 0
@@ -29,7 +26,7 @@ MonoBehaviour:
     tracking: origin/master
     isActive: 0
   remoteBranches:
-  - name: origin/CemDevelopment
+  - name: origin/ElifDevelop
     tracking: '[None]'
     isActive: 0
   - name: origin/Development
@@ -48,11 +45,9 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - CemDevelopment
     - Development
     - master
     values:
-    - Name: CemDevelopment
     - Name: Development
     - Name: master
   remoteConfigBranches:
@@ -60,12 +55,12 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - CemDevelopment
+      - ElifDevelop
       - Development
       - master
     subKeyValues:
     - Values:
-      - Name: CemDevelopment
+      - Name: ElifDevelop
       - Name: Development
       - Name: master
   configRemotes:
