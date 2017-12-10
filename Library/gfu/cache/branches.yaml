@@ -11,10 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-12-10T18:34:48.3179016+03:00
-  lastVerifiedAtString: 2017-12-10T18:34:48.3179016+03:00
+  lastUpdatedAtString: 2017-12-10T19:11:24.5990748+03:00
+  lastVerifiedAtString: 2017-12-10T19:11:24.6459566+03:00
   gitConfigBranch:
-    Name: master
+    Name: ElifDevelop
   gitConfigRemote:
     Name: origin
     Url: https://github.com/GenarC/Dystopia.git
@@ -22,14 +22,17 @@ MonoBehaviour:
   - name: Development
     tracking: origin/Development
     isActive: 0
-  - name: master
-    tracking: origin/master
+  - name: ElifDevelop
+    tracking: origin/ElifDevelop
     isActive: 1
   remoteBranches:
-  - name: origin/Development
+  - name: origin/CemDevelopment
     tracking: '[None]'
     isActive: 0
-  - name: origin/master
+  - name: origin/ElifDevelop
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/HEAD
     tracking: '[None]'
     isActive: 0
   remotes:
@@ -43,21 +46,23 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - Development
-    - master
+    - ElifDevelop
     values:
     - Name: Development
-    - Name: master
+    - Name: ElifDevelop
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - Development
-      - master
+      - CemDevelopment
+      - ElifDevelop
+      - HEAD
     subKeyValues:
     - Values:
-      - Name: Development
-      - Name: master
+      - Name: CemDevelopment
+      - Name: ElifDevelop
+      - Name: HEAD
   configRemotes:
     keys:
     - origin
