@@ -1,0 +1,1149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: e206842104c39854182a3706fa5a67bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2017-12-10T18:31:25.9842211+03:00
+  lastVerifiedAtString: 2017-12-10T18:31:25.9842211+03:00
+  status:
+    LocalBranch: master
+    RemoteBranch: origin/master
+    Ahead: 4
+    Behind: 0
+    Entries:
+    - Path: Library\CrashedAssetImports.txt
+      FullPath: C:\C#Repositories\Dystopia\Library\CrashedAssetImports.txt
+      ProjectPath: Library\CrashedAssetImports.txt
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\EditorInstance.json
+      FullPath: C:\C#Repositories\Dystopia\Library\EditorInstance.json
+      ProjectPath: Library\EditorInstance.json
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      FullPath: C:\C#Repositories\Dystopia\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      ProjectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\ScriptMapper
+      FullPath: C:\C#Repositories\Dystopia\Library\ScriptMapper
+      ProjectPath: Library\ScriptMapper
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\assetDatabase3
+      FullPath: C:\C#Repositories\Dystopia\Library\assetDatabase3
+      ProjectPath: Library\assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\metadata\1a\1a9b04b1f46fa234b821711c10c5435c
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\1a\1a9b04b1f46fa234b821711c10c5435c
+      ProjectPath: Library\metadata\1a\1a9b04b1f46fa234b821711c10c5435c
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+      ProjectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+      ProjectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2
+      ProjectPath: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      ProjectPath: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2.info~HEAD
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2.info~HEAD
+      ProjectPath: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2.info~HEAD
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+      ProjectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+      ProjectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97
+      ProjectPath: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      ProjectPath: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148_0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148_0
+      ProjectPath: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148_0
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~HEAD
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~HEAD
+      ProjectPath: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~HEAD
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~HEAD_0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~HEAD_0
+      ProjectPath: Library\metadata\3c\3c0ad459c1534645b5d603b7cc258f97.info~HEAD_0
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+      ProjectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      ProjectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\4d\4db40e327500fed4db85dda398dc29f2
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\4d\4db40e327500fed4db85dda398dc29f2
+      ProjectPath: Library\metadata\4d\4db40e327500fed4db85dda398dc29f2
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+      ProjectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96
+      ProjectPath: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      ProjectPath: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148_0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148_0
+      ProjectPath: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148_0
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~HEAD
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~HEAD
+      ProjectPath: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~HEAD
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~HEAD_0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~HEAD_0
+      ProjectPath: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96.info~HEAD_0
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
+      ProjectPath: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e
+      ProjectPath: Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      ProjectPath: Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e.info~HEAD
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e.info~HEAD
+      ProjectPath: Library\metadata\7c\7cbab2be89b54486bbd23a6fe637d30e.info~HEAD
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      ProjectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\85\852e56802eb941638acbb491814497b0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\85\852e56802eb941638acbb491814497b0
+      ProjectPath: Library\metadata\85\852e56802eb941638acbb491814497b0
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\85\852e56802eb941638acbb491814497b0.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\85\852e56802eb941638acbb491814497b0.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      ProjectPath: Library\metadata\85\852e56802eb941638acbb491814497b0.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\85\852e56802eb941638acbb491814497b0.info~HEAD
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\85\852e56802eb941638acbb491814497b0.info~HEAD
+      ProjectPath: Library\metadata\85\852e56802eb941638acbb491814497b0.info~HEAD
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
+      ProjectPath: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      ProjectPath: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info~HEAD
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info~HEAD
+      ProjectPath: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info~HEAD
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      ProjectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
+      ProjectPath: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      ProjectPath: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info~HEAD
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info~HEAD
+      ProjectPath: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info~HEAD
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+      ProjectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
+      ProjectPath: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      ProjectPath: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info~252c9275d8c8ca5e99ed48b7667d2a9c1b961148
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info~HEAD
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info~HEAD
+      ProjectPath: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info~HEAD
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+      ProjectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\b0\b0342854ee075994c8a87e8a9a0e8a14
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\b0\b0342854ee075994c8a87e8a9a0e8a14
+      ProjectPath: Library\metadata\b0\b0342854ee075994c8a87e8a9a0e8a14
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+      ProjectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      ProjectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      ProjectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      ProjectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      ProjectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      FullPath: C:\C#Repositories\Dystopia\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      ProjectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\gfu\cache\branches.yaml
+      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\branches.yaml
+      ProjectPath: Library\gfu\cache\branches.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\gfu\cache\gitlocks.yaml
+      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\gitlocks.yaml
+      ProjectPath: Library\gfu\cache\gitlocks.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\gfu\cache\gitlog.yaml
+      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\gitlog.yaml
+      ProjectPath: Library\gfu\cache\gitlog.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\gfu\cache\gitstatus.yaml
+      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\gitstatus.yaml
+      ProjectPath: Library\gfu\cache\gitstatus.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\gfu\cache\repoinfo.yaml
+      FullPath: C:\C#Repositories\Dystopia\Library\gfu\cache\repoinfo.yaml
+      ProjectPath: Library\gfu\cache\repoinfo.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      ProjectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      ProjectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\10\10bf81265ad87424d946598c575f45a0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\10\10bf81265ad87424d946598c575f45a0
+      ProjectPath: Library\metadata\10\10bf81265ad87424d946598c575f45a0
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\10\10bf81265ad87424d946598c575f45a0.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\10\10bf81265ad87424d946598c575f45a0.info
+      ProjectPath: Library\metadata\10\10bf81265ad87424d946598c575f45a0.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\13\1322fd896bbb15bb6e335591b766ae62
+      ProjectPath: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+      ProjectPath: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      ProjectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      ProjectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      ProjectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      ProjectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\15\15be9c691b85a41a39c18bee2f87e21b
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\15\15be9c691b85a41a39c18bee2f87e21b
+      ProjectPath: Library\metadata\15\15be9c691b85a41a39c18bee2f87e21b
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\15\15be9c691b85a41a39c18bee2f87e21b.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\15\15be9c691b85a41a39c18bee2f87e21b.info
+      ProjectPath: Library\metadata\15\15be9c691b85a41a39c18bee2f87e21b.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\1a\1a9b04b1f46fa234b821711c10c5435c.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\1a\1a9b04b1f46fa234b821711c10c5435c.info
+      ProjectPath: Library\metadata\1a\1a9b04b1f46fa234b821711c10c5435c.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+      ProjectPath: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5.info
+      ProjectPath: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      ProjectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      ProjectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\22\220224b43fc464c28bc0e8de8f54a432
+      ProjectPath: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\22\220224b43fc464c28bc0e8de8f54a432.info
+      ProjectPath: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05
+      ProjectPath: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05.info
+      ProjectPath: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540
+      ProjectPath: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540.info
+      ProjectPath: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\2e\2eb2d0388ed974b3cba47458803bd275
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\2e\2eb2d0388ed974b3cba47458803bd275
+      ProjectPath: Library\metadata\2e\2eb2d0388ed974b3cba47458803bd275
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\2e\2eb2d0388ed974b3cba47458803bd275.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\2e\2eb2d0388ed974b3cba47458803bd275.info
+      ProjectPath: Library\metadata\2e\2eb2d0388ed974b3cba47458803bd275.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434
+      ProjectPath: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434.info
+      ProjectPath: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c
+      ProjectPath: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c.info
+      ProjectPath: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+      ProjectPath: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+      ProjectPath: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+      ProjectPath: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6.info
+      ProjectPath: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209
+      ProjectPath: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209.info
+      ProjectPath: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\4d\4db40e327500fed4db85dda398dc29f2.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\4d\4db40e327500fed4db85dda398dc29f2.info
+      ProjectPath: Library\metadata\4d\4db40e327500fed4db85dda398dc29f2.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\4f\4f234578336894dc081edf696f2ff5f2
+      ProjectPath: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\4f\4f234578336894dc081edf696f2ff5f2.info
+      ProjectPath: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0
+      ProjectPath: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0.info
+      ProjectPath: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f
+      ProjectPath: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f.info
+      ProjectPath: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      ProjectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      ProjectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\65\6597c6ea86d36477081342001145d8d9
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\65\6597c6ea86d36477081342001145d8d9
+      ProjectPath: Library\metadata\65\6597c6ea86d36477081342001145d8d9
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+      ProjectPath: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\65\65d58d50c3db54f979b1ffae3777d74b
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\65\65d58d50c3db54f979b1ffae3777d74b
+      ProjectPath: Library\metadata\65\65d58d50c3db54f979b1ffae3777d74b
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\65\65d58d50c3db54f979b1ffae3777d74b.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\65\65d58d50c3db54f979b1ffae3777d74b.info
+      ProjectPath: Library\metadata\65\65d58d50c3db54f979b1ffae3777d74b.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441
+      ProjectPath: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441.info
+      ProjectPath: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      ProjectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      ProjectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec
+      ProjectPath: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+      ProjectPath: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\7c\7c3a5d6e39b874f468b2691537168513
+      ProjectPath: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\7c\7c3a5d6e39b874f468b2691537168513.info
+      ProjectPath: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      ProjectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      ProjectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\86\86c008322e7c647149878156c5b81940
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\86c008322e7c647149878156c5b81940
+      ProjectPath: Library\metadata\86\86c008322e7c647149878156c5b81940
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\86\86c008322e7c647149878156c5b81940.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\86c008322e7c647149878156c5b81940.info
+      ProjectPath: Library\metadata\86\86c008322e7c647149878156c5b81940.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\86\86c18994495874297b469aaa57ef9b44
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\86c18994495874297b469aaa57ef9b44
+      ProjectPath: Library\metadata\86\86c18994495874297b469aaa57ef9b44
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+      ProjectPath: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c
+      ProjectPath: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c.info
+      ProjectPath: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\99\99ddb49592ff84811804420a1910cb89
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\99\99ddb49592ff84811804420a1910cb89
+      ProjectPath: Library\metadata\99\99ddb49592ff84811804420a1910cb89
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\99\99ddb49592ff84811804420a1910cb89.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\99\99ddb49592ff84811804420a1910cb89.info
+      ProjectPath: Library\metadata\99\99ddb49592ff84811804420a1910cb89.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9
+      ProjectPath: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+      ProjectPath: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\a3\a342381d77833427fa10621e38fbae10
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\a3\a342381d77833427fa10621e38fbae10
+      ProjectPath: Library\metadata\a3\a342381d77833427fa10621e38fbae10
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\a3\a342381d77833427fa10621e38fbae10.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\a3\a342381d77833427fa10621e38fbae10.info
+      ProjectPath: Library\metadata\a3\a342381d77833427fa10621e38fbae10.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\a3\a37e18887fa954edf92bc36bc353b879
+      ProjectPath: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\a3\a37e18887fa954edf92bc36bc353b879.info
+      ProjectPath: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc
+      ProjectPath: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+      ProjectPath: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      ProjectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      ProjectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+      ProjectPath: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+      ProjectPath: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\b0\b0342854ee075994c8a87e8a9a0e8a14.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\b0\b0342854ee075994c8a87e8a9a0e8a14.info
+      ProjectPath: Library\metadata\b0\b0342854ee075994c8a87e8a9a0e8a14.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11
+      ProjectPath: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11.info
+      ProjectPath: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029
+      ProjectPath: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+      ProjectPath: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59
+      ProjectPath: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59.info
+      ProjectPath: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+      ProjectPath: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+      ProjectPath: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+      ProjectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+      ProjectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      ProjectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      ProjectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117
+      ProjectPath: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+      ProjectPath: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      ProjectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      ProjectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\cc\cc1b50b5501f748da8bec762294d9136
+      ProjectPath: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+      ProjectPath: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892
+      ProjectPath: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+      ProjectPath: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e
+      ProjectPath: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e.info
+      ProjectPath: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      ProjectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      ProjectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e
+      ProjectPath: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+      ProjectPath: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\d9\d929147d9f78c487397abb40f2c257b0
+      ProjectPath: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\d9\d929147d9f78c487397abb40f2c257b0.info
+      ProjectPath: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21
+      ProjectPath: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21.info
+      ProjectPath: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      ProjectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      ProjectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\e2\e206842104c39854182a3706fa5a67bd
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\e2\e206842104c39854182a3706fa5a67bd
+      ProjectPath: Library\metadata\e2\e206842104c39854182a3706fa5a67bd
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\e2\e206842104c39854182a3706fa5a67bd.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\e2\e206842104c39854182a3706fa5a67bd.info
+      ProjectPath: Library\metadata\e2\e206842104c39854182a3706fa5a67bd.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      ProjectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      ProjectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0
+      ProjectPath: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0.info
+      ProjectPath: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\f0\f0f8d67297461495185169157c24c66b
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f0\f0f8d67297461495185169157c24c66b
+      ProjectPath: Library\metadata\f0\f0f8d67297461495185169157c24c66b
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\f0\f0f8d67297461495185169157c24c66b.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f0\f0f8d67297461495185169157c24c66b.info
+      ProjectPath: Library\metadata\f0\f0f8d67297461495185169157c24c66b.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0
+      ProjectPath: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0.info
+      ProjectPath: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981
+      ProjectPath: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981.info
+      ProjectPath: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      ProjectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      ProjectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      ProjectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      ProjectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+      ProjectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+      FullPath: C:\C#Repositories\Dystopia\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+      ProjectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
